@@ -38,20 +38,14 @@
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
+	var database = firebase.database();
   firebase.analytics();
 	
-function saveToFirebase(email) {
-    var emailObject = {
-        email: email
-    };
-
-    firebase.database().ref(‘OWO/OWO’).push({
+firebase.database().ref(‘member/1’).set({
  email: 0,
  name: 1,
  age : 2
-	})
-}
-	saveToFirebase("sun055676@gmail.com");
+})
 </script>
 	  
     <div class="container-fluid">
