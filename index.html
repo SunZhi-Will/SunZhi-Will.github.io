@@ -15,7 +15,30 @@
 
   </head>
   <body>
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-app.js"></script>
 
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyCNPGklMDVYGNn-McwqiAUJBfcu9lss5Mc",
+    authDomain: "shang-zhi-s-time.firebaseapp.com",
+    databaseURL: "https://shang-zhi-s-time.firebaseio.com",
+    projectId: "shang-zhi-s-time",
+    storageBucket: "shang-zhi-s-time.appspot.com",
+    messagingSenderId: "1031598158570",
+    appId: "1:1031598158570:web:dd9293fc446e47b892dd93",
+    measurementId: "G-XY30X91HVD"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+	  
     <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12">
