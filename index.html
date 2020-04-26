@@ -45,13 +45,11 @@ function saveToFirebase(email) {
         email: email
     };
 
-    firebase.database().ref('subscription-entries').push().set(emailObject)
-        .then(function(snapshot) {
-            success(); // some success method
-        }, function(error) {
-            console.log('error' + error);
-            
-        });
+    firebase.database().ref(‘SHANG ZHI'S TIME/subscription-entries’).set({
+ email: 0,
+ name: 1,
+ age : 2
+	})
 }
 	saveToFirebase("sun055676@gmail.com");
 </script>
