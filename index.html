@@ -45,7 +45,7 @@ function saveToFirebase(email) {
         email: email
     };
 
-    firebase.database().ref(‘subscription-entries/subscription-entries’).set({
+    firebase.database().ref(‘subscription-entries’).push({
  email: 0,
  name: 1,
  age : 2
