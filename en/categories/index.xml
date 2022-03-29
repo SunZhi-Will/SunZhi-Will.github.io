@@ -5,6 +5,15 @@
         <link>https://sunzhi-will.github.io/en/categories/</link>
         <description>Recent content in Categories on Shang Zhi</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-tw</language><atom:link href="https://sunzhi-will.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-tw</language>
+        <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://sunzhi-will.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test</title>
+        <link>https://sunzhi-will.github.io/en/categories/test/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://sunzhi-will.github.io/en/categories/test/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
