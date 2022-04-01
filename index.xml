@@ -496,21 +496,34 @@ $$
 $$&lt;/p&gt;</description>
         </item>
         <item>
-        <title>关于</title>
-        <link>https://sunzhi-will.github.io/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://sunzhi-will.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>搜尋</title>
         <link>https://sunzhi-will.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://sunzhi-will.github.io/search/</guid>
         <description></description>
+        </item>
+        <item>
+        <title>連結</title>
+        <link>https://sunzhi-will.github.io/%E9%80%A3%E7%B5%90/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://sunzhi-will.github.io/%E9%80%A3%E7%B5%90/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>關於</title>
+        <link>https://sunzhi-will.github.io/%E9%97%9C%E6%96%BC/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://sunzhi-will.github.io/%E9%97%9C%E6%96%BC/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;為成功找方法，不畏失敗找藉口&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;我是被遊戲啟發開始撰寫程式的人&#34;&gt;我是被遊戲啟發，開始撰寫程式的人&lt;/h1&gt;
+&lt;p&gt;我想製作好玩的遊戲給朋友，便開始自學程式，剛開始從Scratch到Minecraft指令、寫遊戲模組插件，直到高三後，才開始撰寫Untiy、Java、Python等程式語言，我覺得程式有著無限的可能，學習途中也開發出一些小小的工具，為的就是希望周圍的人使用後，會變得更方便或開心。&lt;/p&gt;
+&lt;p&gt;我喜歡去接觸新的挑戰，讓我更多不同的想法或啟發，這也使我會想不斷優化程式，挑戰更有效率的撰寫與計畫。&lt;/p&gt;
+</description>
         </item>
         
     </channel>

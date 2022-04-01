@@ -136,18 +136,6 @@
                 href="https://sunzhi-will.github.io/page/"
                 />
   </url><url>
-    <loc>https://sunzhi-will.github.io/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sunzhi-will.github.io/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://sunzhi-will.github.io/%E5%85%B3%E4%BA%8E/"
-                />
-  </url><url>
     <loc>https://sunzhi-will.github.io/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -158,6 +146,20 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://sunzhi-will.github.io/search/"
+                />
+  </url><url>
+    <loc>https://sunzhi-will.github.io/%E9%80%A3%E7%B5%90/</loc>
+  </url><url>
+    <loc>https://sunzhi-will.github.io/%E9%97%9C%E6%96%BC/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sunzhi-will.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://sunzhi-will.github.io/%E9%97%9C%E6%96%BC/"
                 />
   </url>
 </urlset>
